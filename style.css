@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.logo{
+    margin-left: 30px;
+}
+main{
+    padding: 20px;
+    background-color: rgb(224, 224, 224);
+    font-family: 'Open Sans', sans-serif;
+}
+.firstDiv{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.firstDivrightimg{
+    
+mix-blend-mode: multiply;
+}
+.firstDiv p{
+    line-height: 1.8;
+    font-size: 1.125rem;
+    font-weight: 400;
+    font-style: normal;
+    margin: 32px 0 0;
+}
+.firstDiv h1{
+    color: #ec6c39;
+font-size: 50px;
+}
+.firstDivleft p{
+    color: rgb(53, 53, 53);
+  
+}
+.firstDivleft span{
+    margin-right: 10px;
+}
+.firstDivleft a{
+    color: rgb(53, 53, 53);
+    text-decoration: underline;
+    text-underline-offset: 5px;
+}
+.firstDivleft button{
+    background-color: #ec6c39 ;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    border: none;
+    font-size: 24px;
+    color: white;
+}
+.firstDivleft button:hover{
+    background-color: #000000 ;
+    cursor: pointer;
+}
+/* second Div */
+.firstDiv2{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+  .firstDivrightimg{
+      
+  mix-blend-mode: multiply;
+  }
+  .firstDiv2 p{
+      line-height: 1.8;
+      font-size: 1.125rem;
+      font-weight: 400;
+      font-style: normal;
+      margin: 32px 0 0;
+  }
+  .firstDiv2 h2{
+      color: #3c3c3c;
+  font-size: 50px;
+  }
+  .firstDivleft2 p{
+      color: rgb(53, 53, 53);
+    
+  }
+  .firstDivleft2 span{
+      margin-right: 10px;
+  }
+  .firstDivleft2 a{
+      color: rgb(53, 53, 53);
+      text-decoration: underline;
+      text-underline-offset: 5px;
+  }
+  .firstDivleft2 button{
+      background-color: #ec6c39 ;
+      width: 200px;
+      height: 60px;
+      border-radius: 10px;
+      border: 2px solid #ec6c39 ;
+      font-size: 24px;
+      color: white;
+  }
+  .firstDivleft2 button:hover{
+    background-color: #ffffff ;
+    color: #ec6c39 ;
+    cursor: pointer;
+  }
+  /* 3 cu section */
+  .sectionthree{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+  }
+  .sectionthreereqem{
+   
+    color: #ec6c39 ;
+    font-size: 64px;
+    font-weight: 700;
+    margin-right: 30px;
+    font-family: Montserrat, sans-serif !important;
+  }
+  .sectionthreesoz{
+    font-family: Montserrat, sans-serif !important;
+    font-size: 20px;
+    font-weight: 800;
+  
+    
+  }
+  .bir{
+  line-height: 1.8;
+  font-size: 1.125rem;
+  font-weight: 400;
+  font-style: normal;
+  }
+  .iki{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: -80px;
+  }
+  /* 3 cu section */
+  .borderRadius{
+    border-radius: 300px;
+  }
+  .sectionfour{
+    background-color: #ec6c39 ;
+    color: white;
+    height: 1100px;
+  }
+  .birimg{
+    position: relative;
+    left: 600px;
+    bottom: 230px;
+  }
+  .ikiimg{
+    position: relative;
+    left: 650px;
+    top: 200px;
+  }
+  .white{
+    background-color: white;
+    width: 500px;
+    height: 320px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    position: relative;
+    left: 840px;
+    bottom:290px ;
+  }
+  .white p{
+    color: #6c6c6c;
+    font-size: 20px;
+    font-family: Montserrat, sans-serif !important;
+  }
+  .white a{
+    color: black;
+    text-decoration: underline #ec6c39;
+    text-underline-offset: 5px;
+  }
+  .white a:hover{
+    color: #ec6c39;
+    text-decoration: underline black;
+  }
+  .sectionfourleft{
+    position: relative;
+    left: 110px;
+    bottom: 200px;
+
+  }
+  .sectionfourleft p{
+  line-height: 30px;
+    font-size: 20px;
+    font-family: Montserrat, sans-serif !important;
+  }
+  .sectionfourleft h1{
+font-size: 70px;
+  }
+  .sectionfourleft a{
+    color: rgb(255, 255, 255);
+    text-decoration: underline #ffffff;
+    text-underline-offset: 5px;
+    margin-left: 10px;
+    font-size: 20px;
+  }
+  .sectionfourleft span{
+    font-size: 20px;
+  }
+  .ucimg{
+    position: relative;
+bottom: 500px;
+left: 400px;
+  }
+ 
