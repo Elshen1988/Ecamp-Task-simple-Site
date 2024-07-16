@@ -210,4 +210,99 @@ font-size: 70px;
 bottom: 500px;
 left: 400px;
   }
- 
+  /* 4 cu section */
+  .ucSectionMain1{
+    max-width: 1500px;
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .ucSectionMain{
+    background-color: #ec6c39;
+    
+    width: 1200px;
+    height: 500px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    
+  }
+  .ucSectionMain img{
+    border-radius: 20px;
+    width: 900px;
+    height: 600px;
+    position: relative;
+    left: 200px;
+    bottom: 200px;
+
+  }
+  .firstDivleft3 h2{
+    font-size: 40px;
+    font-weight: 800;
+    font-family: Montserrat, sans-serif;
+  }
+  .firstDivleft3 p{
+    color: rgb(53, 53, 53);
+  
+}
+.firstDivleft3 span{
+    margin-right: 10px;
+}
+.firstDivleft3 a{
+    color: rgb(53, 53, 53);
+    text-decoration: underline;
+    text-underline-offset: 5px;
+}
+.firstDivleft3 button{
+    background-color: #ec6c39 ;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    border: 2px solid #ec6c39 ;
+    font-size: 20px;
+    color: white;
+}
+.firstDivleft3 button:hover{
+  background-color: #ffffff ;
+  color: #ec6c39 ;
+  cursor: pointer;
+}
+.firstDivleft3{
+    background-color: #ffffff;
+    border-top-left-radius: 20px;
+    width: 800px;
+    height: 340px;
+    position: relative;
+    bottom: 350px;
+    left: 500px;
+    padding: 30px;
+}
+/* section5 */
+.section5Main{
+    width: 1500px;
+    height: 1000px;
+    background-image: url("./img/section-5-1.jpg");
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    gap: 30px;
+}
+.backwhitw{
+  background-color: #ffffff;
+  padding: 10px;
+  
+}
+.rotateDiv{
+  background-color: #ec6c39;
+  width: 70px;
+  border-radius: 50px;
+ text-align: center;
+ margin-right: 20px;
+}
+.sectionthreereqem1{
+  color:  white;
+  font-size: 40px;
+  font-weight: 700;
+  font-family: Montserrat, sans-serif !important;
+}
