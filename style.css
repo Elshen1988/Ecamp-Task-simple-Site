@@ -294,15 +294,29 @@ left: 400px;
   
 }
 .rotateDiv{
+  position: relative;
   background-color: #ec6c39;
   width: 70px;
   border-radius: 50px;
  text-align: center;
  margin-right: 20px;
+ 
+  animation-name: elshen;
+  animation-duration: 3s;
+  animation-timing-function: ease;
+
 }
 .sectionthreereqem1{
+  
   color:  white;
   font-size: 40px;
   font-weight: 700;
   font-family: Montserrat, sans-serif !important;
+
+  
+}
+@keyframes elshen {
+  0%   {left:-100px; opacity: 0;transform: rotate3d(0, 0, 1, 0deg);}
+
+  100% {left:0px;opacity: 1;transform: rotate3d(0, 0, 1, 360deg);}
 }
